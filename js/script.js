@@ -27,9 +27,9 @@ document.addEventListener("DOMContentLoaded", function () {
         // Simulated job results (replace with real data fetch)
         const jobResults = [
           { title: "Software Engineer", company: "Tech Company", location: "Remote" },
-          { title: "Frontend Developer", company: "Web Solutions", location: "San Francisco" },
-          { title: "Data Analyst", company: "Analytics Corp", location: "New York" },
-          { title: "Project Manager", company: "Build IT", location: "Chicago" }
+          { title: "Frontend Developer", company: "Web Solutions", location: "New Delhi" },
+          { title: "Data Analyst", company: "Analytics Corp", location: "Mumbai" },
+          { title: "Project Manager", company: "Build IT", location: "Pune" }
         ];
   
         // If no job results, notify the user
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
     scrollToTopButton.style.padding = "15px";
     scrollToTopButton.style.borderRadius = "50%";
     scrollToTopButton.style.fontSize = "18px";
-    scrollToTopButton.style.backgroundColor = "#007BFF";
+    scrollToTopButton.style.backgroundColor = "#0FA4AF";
     scrollToTopButton.style.color = "#fff";
     scrollToTopButton.style.border = "none";
     scrollToTopButton.style.cursor = "pointer";
